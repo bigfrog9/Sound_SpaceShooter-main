@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d4290a2498fc81b4894976a73ba08e84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerShoot: {instanceID: 0}
+  - asteroidExplosion: {instanceID: 0}
+  - playerDamage: {instanceID: 0}
+  - playerExplosion: {instanceID: 0}
+  - BgMusicGameplay: {instanceID: 0}
+  - BgMusicTitleScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
